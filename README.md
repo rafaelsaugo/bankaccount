@@ -1,2 +1,1 @@
-"# CRUD-API-Rest-com-Kotlin"  
-"# CRUD-API-Rest-com-Kotlin" 
+estou demonstrando como criar um CRUD de uma API Rest usando como linguagem de programação Koltin e como framework Web Spring/Spring Boot. estou usando o MongoDB como Banco de Dados NoSQL.  Stack: Kotlin, Spring 5, Spring Boot 2, MongoDB, IntelliJ IDEA
